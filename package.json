@@ -1,6 +1,6 @@
 {
   "name": "@react-shared/dropdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/react-shared/dropdown/issues"
   },
-  "homepage": "https://github.com/react-shared/dropdown#readme"
+  "homepage": "https://github.com/react-shared/dropdown#readme",
+  "dependencies": {
+    "@react-shared/click-outside": "*"
+  }
 }

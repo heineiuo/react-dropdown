@@ -1,6 +1,4 @@
 import React, {Component} from 'react'
-import style from './style.css'
-import classnames from 'classnames/bind'
 import ClickOutside   from '@react-shared/click-outside'
 
 import DropDownTrigger from './DropDownTrigger'
